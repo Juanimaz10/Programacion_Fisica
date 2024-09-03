@@ -1,0 +1,9 @@
+mass_data = "Insert the mass:"
+velocity_data = "Insert the velocity:"
+height_data = "Insert the height:"
+gravity = 9.8
+mechanic_energy_result= "The mechanic energy is:"
+delta_data = "insert the delta data:"
+primary_mechanic_energy_result= "The primary mechanic energy is:"
+final_mechanic_energy_result= "The final mechanic energy is:"
+work_between_No_conservatives_forces_result = "The result from work between no conservatives forces is:"
