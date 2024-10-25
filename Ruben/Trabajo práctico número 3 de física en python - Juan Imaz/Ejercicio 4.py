@@ -1,7 +1,7 @@
 import math
 
 # Datos del problema
-altura = 8.0  # m
+altura = 8  # m
 velocidad_inicial = 10.0  # m/s
 angulo = 20  # grados
 gravedad = 9.8  # m/s^2
@@ -32,3 +32,4 @@ if discriminante >= 0:
     print(f"Distancia horizontal desde la ventana: {distancia_horizontal:.2f} metros")
 else:
     print("No hay solución real.")
+ 
